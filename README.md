@@ -8,3 +8,6 @@ practice Questions using scala Collection Framework
 #Basic List operation
 #Remove duplicates from list
 # Checking plalindrome or not using list
+#count the number of occurrences of each element in a given list.
+# program to create a map and retrieve the value associated with a given key
+#Set basic operation
