@@ -5,7 +5,7 @@ practice Questions using scala Collection Framework
 #Test equality of array
 #separate even and odd numbers in an array
 #2D array
-#Basic List operation
+#Basic List operation \n
 #Remove duplicates from list
 # Checking plalindrome or not using list
 #count the number of occurrences of each element in a given list.
